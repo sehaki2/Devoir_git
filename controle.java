@@ -13,6 +13,9 @@ class Controle {
 	y == 18;
 	System.out.println("x =" + x);
 	System.out.println ("y =" + y);
+	calcul(x, y);
+	System.out.println("x =" + x);
+	System.out.println ("y =" + y);
 		
        
     }
